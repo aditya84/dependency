@@ -1,0 +1,15 @@
+{
+    "name": "ecare/dependency",
+    "description": "Ecare API Framework of Dependency",
+    "type": "library",
+    "license": "MIT",
+    "version" : "1.0.0-dev",  
+    "authors": [
+        {
+            "name": "unicode",
+            "email": "aditya@unicodesystems.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
